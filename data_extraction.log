@@ -90,3 +90,11 @@
 2023-10-20 04:15:22,836 [INFO] - Latest files matching pattern 'markers' are ['data/markers-2023-10-20.csv', 'data/markers-2023-10-17.csv']
 2023-10-20 04:15:22,843 [INFO] - No change in markers data
 2023-10-20 04:15:22,865 [INFO] - No change in toll data
+2023-10-21 04:09:24,563 [INFO] - Fetching data from KML file.
+2023-10-21 04:09:25,878 [INFO] - Saving data to data/markers-2023-10-21.csv
+2023-10-21 04:09:26,940 [INFO] - Category dictionary created.
+2023-10-21 04:13:50,940 [INFO] - Saved data to data/toll-rates-2023-10-21.csv
+2023-10-21 04:13:50,941 [INFO] - Latest files matching pattern 'toll' are ['data/toll-rates-2023-10-21.csv', 'data/toll-rates-2023-10-20.csv']
+2023-10-21 04:13:50,942 [INFO] - Latest files matching pattern 'markers' are ['data/markers-2023-10-21.csv', 'data/markers-2023-10-17.csv']
+2023-10-21 04:13:50,951 [INFO] - No change in markers data
+2023-10-21 04:13:50,976 [INFO] - No change in toll data
