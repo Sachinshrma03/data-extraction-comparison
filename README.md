@@ -31,6 +31,7 @@ This repository contains a Python script designed to scrape data and marker info
 ## Installation
 
 1. Clone the repository:
+
    git clone https://github.com/your-username/toll-data-scraper.git
 
    cd toll-data-scraper
